@@ -55,7 +55,7 @@
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/6.1%20finish%20quiz.jpg" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/6.1%20finish%20quiz.jpg)
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/12.1%20my%20challenges.jpg" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/12.1%20my%20challenges.jpg)
 
-Here the apk file [link](https://github.com/antorparvez/BrainTeaser_app/blob/master/BrainTeaser_app-debug.apk)
+[Download](https://github.com/antorparvez/BrainTeaser_app/raw/master/BrainTeaser_app-debug.apk) the demu apk file 
 
 N.B: This project on BETA stage , some time it may crash , its may cause "null pointer exception". I am trying to keep the apk file up-to-date.
 Thank you.

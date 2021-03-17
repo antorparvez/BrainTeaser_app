@@ -41,7 +41,6 @@
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/3%20pro%20fresh.png" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/3%20pro%20fresh.png)
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/4.2.1no%20noti.png" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/4.2.1no%20noti.png)
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/4.2Notific.png" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/4.2Notific.png)
-[<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/5%20invite.jpg" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/5%20invite.jpg)
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/8%20subs.jpg" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/8%20subs.jpg)
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/8.1question%20bank.png" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/8.1question%20bank.png)
 [<img src="https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/9%20subs2.jpg" height=300 width=160>](https://github.com/antorparvez/BrainTeaser_app/blob/master/Screen%20Shots/9%20subs2.jpg)
